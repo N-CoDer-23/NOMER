@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.parent{
+    width: 900px;
+    height: 100px;
+    margin: 20%;
+    display: flex;
+}
+.m5{
+    width: 100px;
+    height: 100px;
+    font-size: 80PX;
+    border: 1px solid gray;
+    border-right: none;
+}
+.m6{
+    width: 320px;
+    height: 100px;
+    font-size: 80PX;
+    border: 1px solid gray;
+}
+.uzb{
+    width: 100px;
+    height: 100px;
+    border: 1px solid gray;
+    padding: 20px 0 0 28px;
+}
+.flag{
+    width: 50%;
+    
+    display: block;
+}
+.uz{
+    padding-top: 20px;
+    padding-left: 5px;
+}
