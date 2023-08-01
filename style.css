@@ -4,10 +4,15 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+body{
+    width: 600px;
+    height: 200px;
+
+}
 .parent{
-    width: 900px;
+    width: 540px;
     height: 100px;
-    margin: 20%;
+    margin: 5%;
     display: flex;
 }
 .m5{
