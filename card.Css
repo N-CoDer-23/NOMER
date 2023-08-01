@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+.card{
+    width: 350px;
+    height: 320px;
+    background-color: #333;
+    border-radius: 15px;
+    margin: auto;
+}
+.photo{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    object-fit: cover;
+}
+.name{
+    color: white;
+    text-align: center;
+}
+.username{
+    color: gray;
+    text-align: center;
+    font-size: 14px;
+}
+.bio{
+    text-align: center;
+    color: white;
+}
+.btn{
+    width: 150px;
+    height: 36px;
+    border-radius: 20px;
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    display: block;
+    margin: auto;
+}
